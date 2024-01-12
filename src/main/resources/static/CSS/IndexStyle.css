@@ -1,0 +1,42 @@
+body{
+	background-color: #ffb703;
+	text-align: center;
+	margin-top:100px;	
+}
+
+.container{
+	background-color: #ffb703;
+	text-align: center;
+	margin-top:100px;
+	max-width:400px;
+	margin:auto;
+	padding:20px;
+	border-radius:10px;
+	box-shadow: 0 0 0 rgba(0,0,0,0.258);
+	backdrop-filter:blur(5px);
+	
+}
+
+.heading{
+	font-size:50px;
+	 font-family:lemon;
+}
+
+.logbutton{
+	width:150px;
+	border:dashed;
+	border-radius:15px;
+	font-size:30px;
+	background-color:#dc2f02;
+	font-family:cursive;
+	margin-right:20px;
+}
+
+.regbutton{
+	width:200px;
+	border:dashed;
+	border-radius:15px;
+	font-size:30px;
+	background-color:#dc2f02;
+	font-family:cursive;
+}
